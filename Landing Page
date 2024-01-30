@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 50px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Company Name</h1>
+        <p>Your tagline or a brief description goes here.</p>
+    </header>
+
+    <section>
+        <h2>Welcome to Our Website!</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan tortor in sem varius, sed dictum mi ultrices.</p>
+        <p><a href="#contact">Contact us</a> for more information.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
